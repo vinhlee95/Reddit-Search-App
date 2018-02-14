@@ -1,0 +1,1 @@
+{"dependencies":[{"name":"_css_loader"}],"generated":{"css":".results {\r\n   display: grid;\r\n   grid-template-columns: repeat(3, 1fr);\r\n}\r\n","js":"\n        var reloadCSS = require('_css_loader');\n        module.hot.dispose(reloadCSS);\n        module.hot.accept(reloadCSS);\n      "},"hash":"4e38c08dc9607997bcbf860c928c2e40","cacheData":{}}
